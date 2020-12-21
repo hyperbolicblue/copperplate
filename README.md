@@ -1,7 +1,7 @@
 # copperplate
 
 This package provides a simple and flexible tool for creating practice sheets
-for Copperplate calligraphy.
+for Copperplate calligraphy. Example sheets can be found in docs.
 
 # License
 
